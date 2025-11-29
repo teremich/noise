@@ -30,6 +30,7 @@ int main() {
         randomFile
     );
     fclose(randomFile);
+    printf("this may take some time…\n");
     for (uint32_t s = 0; s < numSeconds*sampleRate; s++) {
         float sum = 0;
         for (uint32_t f = 10; f < sizeof(randomBytes)/sizeof(*randomBytes); f++) {
