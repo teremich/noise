@@ -11,6 +11,5 @@ I do not take responsibility for hearing damage.
 This program is designed to run on a LSB (little endian) Unix-like OS.
 
 ## Next Steps
-- add red noise
 - find a more efficient way to calculate the samples
 - add multi threading
