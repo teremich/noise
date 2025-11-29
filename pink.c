@@ -42,7 +42,7 @@ int main() {
             );
             const float offset = r*2*M_PI/maxRandom;
             const float amp = 1./f;
-            const float Hz = s*2*M_PI/sampleRate/numSeconds;
+            const float Hz = s*2*M_PI/sampleRate;
             sum += amp * sinf(f*Hz + offset);
         }
         static int progress = 0;
