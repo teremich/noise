@@ -1,5 +1,7 @@
 # Colors of noise
 
+<img src="image.png" width="50%" />
+
 ## Resources
 - [Wikipedia](https://en.wikipedia.org/wiki/Colors_of_noise)
 
